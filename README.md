@@ -4,7 +4,7 @@ This project is a part of the Machine Learning and Predictive Analytics Class (3
 
 
 ## Project Intro/Objective
-The purpose of this project is to predict the FIFA video game rating of soccer players. The end goal is to be able to accurately predict sales, in order to h
+The purpose of this project is to predict the FIFA video game rating of soccer players. The end goal is to be able to suggest a mechanism to companies that they can adopt in order to give players video game rating based on their actual performances.
 
 
 ### Methods Used
