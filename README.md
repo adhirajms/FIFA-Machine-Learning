@@ -1,6 +1,6 @@
 # Predicting FIFA Video Game Player Ratings
 
-This project is a part of the Machine Learning and Predictive Analytics Class (31009) at the University of Chicago's Master in Science in Analytics Program.  
+This project is a part of the Machine Learning and Predictive Analytics Class (MScA 31009) at the University of Chicago's Master in Science in Analytics Program.  
 
 
 ## Project Intro/Objective
